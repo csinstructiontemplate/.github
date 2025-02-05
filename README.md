@@ -1,5 +1,5 @@
-# BYU **Course title** `csXXX`
+# BYU **Example Course** `cs000`
 
 ![byu](byuLogo.png)
 
-Welcome to **Course Title** CS XXX. To get started [view the course page](https://github.com/csinstructiontemplate/examplecourse).
+Welcome to **Example Course** CS 000. To get started [view the course page](https://github.com/csinstructiontemplate/examplecourse).
