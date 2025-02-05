@@ -2,4 +2,4 @@
 
 ![byu](byuLogo.png)
 
-Welcome to **Course Title** CS XXX. To get started [view the course page](profile/README.md).
+Welcome to **Course Title** CS XXX. To get started [view the course page](https://github.com/csinstructiontemplate/examplecourse).
