@@ -1,6 +1,6 @@
 ![BYU logo](https://github.com/csinstructiontemplate/examplecourse/blob/main/byuLogo.png?raw=true)
 
-# BYU **Advanced Software Construction** `cs240`
+# BYU **Example Course** `cs000`
 
 ![cover](https://github.com/csinstructiontemplate/examplecourse/blob/main/coursecover.jpg?raw=true)
 
