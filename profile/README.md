@@ -14,8 +14,6 @@ The content for this course is represented by the following parts.
 - 📅 [Schedule](https://github.com/csinstructiontemplate/examplecourse/blob/main/schedule/schedule.md)
 - 💯 Assignments, quizzes, and tests submitted through [Canvas](https://byu.instructure.com/)
 
-## Course Schedule
-
 ## Outcomes
 
 By the end of the course you should have experienced the following outcomes.
