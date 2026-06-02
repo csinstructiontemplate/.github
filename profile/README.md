@@ -1,5 +1,3 @@
-![BYU logo](https://github.com/csinstructiontemplate/examplecourse/blob/main/byuLogo.png?raw=true)
-
 # BYU **Example Course** `cs000`
 
 ![cover](https://github.com/csinstructiontemplate/examplecourse/blob/main/coursecover.jpg?raw=true)
